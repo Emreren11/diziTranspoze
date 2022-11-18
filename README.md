@@ -1,2 +1,3 @@
-# diziTranspoze
-Dizinin transpozunu alma (www.patika.dev)
+# Transpoze
+Matrisin transpozunu (devriğini) almak, matrisin aynı numaralı satırları ile sütunlarının yer değiştirmesi demektir. 
+
